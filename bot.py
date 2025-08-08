@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # Replace with your Bot Token and your Telegram ID
-BOT_TOKEN = '8224719724:AAH3koXkHsyNgy2ZTeLfkwASSjaHGtSRW-I'
+BOT_TOKEN = '8224719724:AAGXeXP9lHYnldr3UZ1QtOpe-G2r0t9_L1s'
 ADMIN_ID = '1237435256'
 
 bot = telebot.TeleBot(BOT_TOKEN)
